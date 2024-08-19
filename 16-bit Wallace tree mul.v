@@ -1,5 +1,4 @@
 //A 16-bit Wallace tree multiplier
-
 module wallace_tree_multiplier_16bit(
     input [15:0] A,
     input [15:0] B,
