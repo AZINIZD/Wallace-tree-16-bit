@@ -1,4 +1,5 @@
 //***************FullAdder****************//
+
 module FullAdder(a,b,cin,cout,sum);
    
     input a,b,cin; 
